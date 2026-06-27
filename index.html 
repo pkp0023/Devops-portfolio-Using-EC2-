@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Prince Pandey - DevOps</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial, sans-serif;
+    background:linear-gradient(135deg,#1d3557,#457b9d);
+    color:white;
+    text-align:center;
+}
+
+.container{
+    margin-top:100px;
+}
+
+h1{
+    font-size:50px;
+}
+
+h2{
+    color:#ffd166;
+}
+
+p{
+    font-size:20px;
+    width:70%;
+    margin:auto;
+    line-height:1.8;
+}
+
+.skills{
+    margin-top:40px;
+}
+
+span{
+    display:inline-block;
+    background:white;
+    color:#333;
+    padding:12px 20px;
+    margin:10px;
+    border-radius:25px;
+    font-weight:bold;
+}
+
+.footer{
+    margin-top:60px;
+    font-size:18px;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>🚀 Welcome to My AWS EC2 Server</h1>
+
+<h2>Hi, I'm Prince Pandey</h2>
+
+<p>
+I'm learning DevOps and Cloud Computing.
+This website is hosted on an Amazon EC2 instance
+using the Apache Web Server.
+</p>
+
+<div class="skills">
+
+<span>Linux</span>
+<span>AWS</span>
+<span>Docker</span>
+<span>Kubernetes</span>
+<span>Terraform</span>
+<span>Git</span>
+<span>Ansible</span>
+
+</div>
+
+<div class="footer">
+
+<p>
+Hosted using Apache + EC2 ❤️
+</p>
+
+</div>
+
+</div>
+
+</body>
+</html>
